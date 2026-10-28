@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karshyga01.github.io/qazaqhub/sitemap.xml
